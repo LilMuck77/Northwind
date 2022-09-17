@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4FMZOoquzmE1KbkzQuZ8ZCeOyqs8zgyTt3JnKERlK42TLgH7+wYauqaqOKvKQ1668suKHWojw21J3sfzNcrkeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\isaia\\source\\repos\\.Net Web\\Northwind\\Northwind.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isaia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
